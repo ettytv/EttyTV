@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:0 group-title="Россия",Первый канал
+http://line.ottbolt.com:80/live/541779/601977/38225.ts
+#EXTINF:0 group-title="Россия",Россия 1
+http://line.ottbolt.com:80/live/541779/601977/38226.ts
+#EXTINF:0 group-title="Россия",НТВ
+http://line.ottbolt.com:80/live/541779/601977/38224.ts
+#EXTINF:0 group-title="Россия",СТС
+http://line.ottbolt.com:80/live/541779/601977/1478585.ts
+#EXTINF:0 group-title="Россия",Че!
+http://line.ottbolt.com:80/live/541779/601977/1478583.ts
+#EXTINF:0 group-title="Россия",МИР
+http://line.ottbolt.com:80/live/541779/601977/1478589.ts
+#EXTINF:0 group-title="Россия",Пятница
+http://line.ottbolt.com:80/live/541779/601977/1478591.ts
+#EXTINF:0 group-title="Россия",ТВЦ
+http://line.ottbolt.com:80/live/541779/601977/1478592.ts
+#EXTINF:0 group-title="Спорт",Матч!
+http://line.ottbolt.com:80/live/541779/601977/38223.ts
+#EXTINF:0 group-title="Спорт",Матч! Премьер
+http://line.ottbolt.com:80/live/541779/601977/468168.ts
+#EXTINF:0 group-title="Спорт",Матч! Арена
+http://line.ottbolt.com:80/live/541779/601977/38193.ts
+#EXTINF:0 group-title="Спорт",Матч! Страна
+http://line.ottbolt.com:80/live/541779/601977/1478571.ts
+#EXTINF:0 group-title="Спорт",Матч! Игра
+http://line.ottbolt.com:80/live/541779/601977/1478570.ts
+#EXTINF:0 group-title="Спорт",Матч! Боец
+http://line.ottbolt.com:80/live/541779/601977/1478578.ts
+#EXTINF:0 group-title="Спорт",Матч! Футбол 1
+http://line.ottbolt.com:80/live/541779/601977/38191.ts
+#EXTINF:0 group-title="Спорт",Матч! Футбол 2
+http://line.ottbolt.com:80/live/541779/601977/38190.ts
+#EXTINF:0 group-title="Спорт",Матч! Футбол 3
+http://line.ottbolt.com:80/live/541779/601977/38189.ts
+#EXTINF:0 group-title="Спорт",Eurosport 1
+http://line.ottbolt.com:80/live/541779/601977/38187.ts
+#EXTINF:0 group-title="Спорт",Eurosport 2
+http://line.ottbolt.com:80/live/541779/601977/38186.ts
+#EXTINF:0 group-title="Спорт",Viju Sport
+http://line.ottbolt.com:80/live/541779/601977/1478573.ts
+#EXTINF:0 group-title="Спорт",Extreme Sport
+http://line.ottbolt.com:80/live/541779/601977/1478574.ts
+#EXTINF:0 group-title="Спорт",Авто Плюс
+http://line.ottbolt.com:80/live/541779/601977/1478577.ts
+#EXTINF:0 group-title="Спорт",Авто 24
+http://line.ottbolt.com:80/live/541779/601977/1478576.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
