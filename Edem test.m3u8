@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img2/146.png" tvg-rec="0",Первый канал UHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6PDMKG55BKEG7A/19241/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="521" tvg-logo="http://epg.one/img2/521.png" tvg-rec="7",Viju Explore
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6PDMKG55BKEG7A/163/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img2/162.png" tvg-rec="0",НТВ UHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/6PDMKG55BKEG7A/19405/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img2/18.png" tvg-rec="0",РЕН ТВ UHD
